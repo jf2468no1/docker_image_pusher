@@ -6,3 +6,10 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 loads/alpine:3.8
 openresty/openresty
+grafana/promtail
+grafana/loki
+grafana/grafana
+mysql:5.7
+redis
+phpmyadmin
+

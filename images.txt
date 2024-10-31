@@ -9,7 +9,6 @@ openresty/openresty
 grafana/promtail
 grafana/loki
 grafana/grafana
-mysql:5.7
 redis
 phpmyadmin
 mysql

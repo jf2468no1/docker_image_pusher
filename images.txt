@@ -12,4 +12,6 @@ grafana/grafana
 mysql:5.7
 redis
 phpmyadmin
+mysql
+mysql:8.4
 

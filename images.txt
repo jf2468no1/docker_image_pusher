@@ -17,4 +17,5 @@ mysql:5.7.37
 centos
 centos:8
 debian:buster
+ubuntu
 

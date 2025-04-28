@@ -18,4 +18,4 @@ centos
 centos:8
 debian:buster
 ubuntu
-
+php:7.4.33
